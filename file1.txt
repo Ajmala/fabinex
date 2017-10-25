@@ -1,0 +1,5 @@
+about me
+name: anagha
+dob:31/12/1995
+adress:sivolly mana
+edu:mtech csis
